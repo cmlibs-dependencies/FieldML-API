@@ -36,7 +36,7 @@
  # ***** END LICENSE BLOCK ***** */
 
 # Set the minimum version of cmake required to 3.0
-cmake_minimum_required( VERSION 3.0 )
+cmake_minimum_required( VERSION 3.18 )
 
 # Set this namespace to keep these options seperate from other project options
 set( FIELDML_NAMESPACE_NAME FIELDML )
